@@ -1,0 +1,16 @@
+# Archivos generados por el IDE Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos generados por el IDE IntelliJ
+.idea/
+
+# Archivos de compilación y carpetas generadas
+bin/
+target/
+
+# Archivos temporales
+*.log
+*.swp
+*.jar
